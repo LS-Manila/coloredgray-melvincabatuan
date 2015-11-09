@@ -1,0 +1,389 @@
+07-13 08:26:45.078    8200-8200/? D/dalvikvm﹕ Late-enabling CheckJNI
+07-13 08:26:45.338    8200-8200/coloredgray D/dalvikvm﹕ Trying to load lib /data/data/coloredgray/lib/libImageProcessing.so 0x2bde4ef0
+07-13 08:26:45.338    8200-8200/coloredgray D/dalvikvm﹕ Added shared lib /data/data/coloredgray/lib/libImageProcessing.so 0x2bde4ef0
+07-13 08:26:45.338    8200-8200/coloredgray D/dalvikvm﹕ No JNI_OnLoad found in /data/data/coloredgray/lib/libImageProcessing.so 0x2bde4ef0, skipping init
+07-13 08:26:45.398    8200-8200/coloredgray D/libEGL﹕ loaded /system/lib/egl/libGLES_android.so
+07-13 08:26:45.408    8200-8200/coloredgray D/libEGL﹕ loaded /system/lib/egl/libEGL_adreno200.so
+07-13 08:26:45.408    8200-8200/coloredgray D/libEGL﹕ loaded /system/lib/egl/libGLESv1_CM_adreno200.so
+07-13 08:26:45.418    8200-8200/coloredgray D/libEGL﹕ loaded /system/lib/egl/libGLESv2_adreno200.so
+07-13 08:26:45.468    8200-8200/coloredgray D/OpenGLRenderer﹕ Enabling debug mode 0
+07-13 08:26:45.698    8200-8200/coloredgray D/dalvikvm﹕ GC_FOR_ALLOC freed 147K, 3% free 9080K/9351K, paused 56ms
+07-13 08:26:46.118    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 21.0 fps.
+07-13 08:26:46.188    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:46.228    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 24.0 fps.
+07-13 08:26:46.278    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 19.0 fps.
+07-13 08:26:46.338    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:46.398    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:46.458    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:46.518    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:46.579    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:26:46.639    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:46.639    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 17.5 fps after 10 frames.
+07-13 08:26:46.699    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:46.759    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:46.848    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 11.0 fps.
+07-13 08:26:46.878    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 28.0 fps.
+07-13 08:26:46.938    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:47.000    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:26:47.060    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:47.120    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:47.180    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:26:47.241    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:26:47.241    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 17.25 fps after 20 frames.
+07-13 08:26:47.301    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:47.368    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:47.438    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:26:47.498    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:47.578    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:26:47.638    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:47.708    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:47.769    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:47.838    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:47.918    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 12.0 fps.
+07-13 08:26:47.918    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 16.3 fps after 30 frames.
+07-13 08:26:47.968    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:26:48.038    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:48.108    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:48.169    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:48.238    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:26:48.300    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:48.370    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:48.438    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:48.508    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:26:48.578    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:48.578    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 15.875 fps after 40 frames.
+07-13 08:26:48.638    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:48.708    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:48.771    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:48.838    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:48.908    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:48.978    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:26:49.038    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:49.108    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:49.178    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:49.239    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:49.239    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 15.6 fps after 50 frames.
+07-13 08:26:49.308    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:49.369    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:49.439    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:49.508    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:49.578    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:26:49.640    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:26:49.728    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 11.0 fps.
+07-13 08:26:49.768    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 21.0 fps.
+07-13 08:26:49.840    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:49.928    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 11.0 fps.
+07-13 08:26:49.928    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 15.4 fps after 60 frames.
+07-13 08:26:49.978    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 19.0 fps.
+07-13 08:26:50.041    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:50.118    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:50.178    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:50.241    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:50.318    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:26:50.378    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:50.458    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 11.0 fps.
+07-13 08:26:50.508    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 19.0 fps.
+07-13 08:26:50.578    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:50.578    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 15.342857142857143 fps after 70 frames.
+07-13 08:26:50.639    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:50.708    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:50.778    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:50.848    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:50.918    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:50.998    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 12.0 fps.
+07-13 08:26:51.038    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 21.0 fps.
+07-13 08:26:51.110    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:51.178    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:51.240    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:51.240    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 15.2625 fps after 80 frames.
+07-13 08:26:51.310    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:51.378    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:51.448    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:51.511    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:51.578    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:26:51.641    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:51.708    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:51.798    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 11.0 fps.
+07-13 08:26:51.848    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 21.0 fps.
+07-13 08:26:51.908    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:51.908    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 15.2 fps after 90 frames.
+07-13 08:26:51.978    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:52.048    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:52.109    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:26:52.179    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:52.248    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:52.309    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:52.379    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:52.448    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:52.509    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:52.598    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 11.0 fps.
+07-13 08:26:52.598    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 15.1 fps after 100 frames.
+07-13 08:26:52.648    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 20.0 fps.
+07-13 08:26:52.728    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 12.0 fps.
+07-13 08:26:52.779    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 19.0 fps.
+07-13 08:26:52.848    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:52.910    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:52.980    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:53.048    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:53.110    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:53.178    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:53.249    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:53.249    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 15.10909090909091 fps after 110 frames.
+07-13 08:26:53.318    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:26:53.388    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:53.448    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:53.518    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:53.579    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:53.649    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:53.718    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:26:53.788    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:53.850    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:53.918    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:53.918    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 15.058333333333334 fps after 120 frames.
+07-13 08:26:53.980    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:54.050    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:54.118    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:54.180    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:54.248    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:54.338    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 11.0 fps.
+07-13 08:26:54.388    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 19.0 fps.
+07-13 08:26:54.449    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:54.518    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:54.588    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:54.588    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 15.03076923076923 fps after 130 frames.
+07-13 08:26:54.650    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:54.718    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:54.808    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 11.0 fps.
+07-13 08:26:54.858    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 21.0 fps.
+07-13 08:26:54.918    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:54.988    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:55.049    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:55.119    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:55.188    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:55.250    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:55.250    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 15.014285714285714 fps after 140 frames.
+07-13 08:26:55.320    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:55.388    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:55.458    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:26:55.538    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 12.0 fps.
+07-13 08:26:55.588    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 20.0 fps.
+07-13 08:26:55.650    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:55.721    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:55.808    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 11.0 fps.
+07-13 08:26:55.858    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 20.0 fps.
+07-13 08:26:55.921    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:55.928    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 14.993333333333334 fps after 150 frames.
+07-13 08:26:55.988    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:56.058    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:56.121    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:26:56.188    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:26:56.258    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:56.318    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:56.408    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 12.0 fps.
+07-13 08:26:56.458    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 20.0 fps.
+07-13 08:26:56.519    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:56.588    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:56.588    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 14.9875 fps after 160 frames.
+07-13 08:26:56.658    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:56.738    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:26:56.788    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:26:56.858    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:56.920    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:56.990    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:57.059    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:57.121    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:57.218    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 10.0 fps.
+07-13 08:26:57.258    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 25.0 fps.
+07-13 08:26:57.258    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 14.994117647058824 fps after 170 frames.
+07-13 08:26:57.321    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:57.391    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:57.459    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:57.528    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:57.588    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:57.659    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:57.738    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 12.0 fps.
+07-13 08:26:57.798    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:57.858    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:57.928    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:57.928    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 14.955555555555556 fps after 180 frames.
+07-13 08:26:57.989    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:58.060    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:58.128    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:58.190    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:58.260    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:58.328    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:26:58.398    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:58.460    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:58.529    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:58.591    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:58.591    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 14.93157894736842 fps after 190 frames.
+07-13 08:26:58.661    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:58.738    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 12.0 fps.
+07-13 08:26:58.798    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:58.861    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:58.958    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 10.0 fps.
+07-13 08:26:58.998    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 24.0 fps.
+07-13 08:26:59.078    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 12.0 fps.
+07-13 08:26:59.129    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 18.0 fps.
+07-13 08:26:59.198    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:59.268    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:26:59.278    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 14.93 fps after 200 frames.
+07-13 08:26:59.328    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:26:59.398    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:59.468    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:26:59.528    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:26:59.598    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:59.668    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:59.738    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:59.798    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:26:59.868    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:26:59.931    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:26:59.931    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 14.923809523809524 fps after 210 frames.
+07-13 08:27:00.008    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 12.0 fps.
+07-13 08:27:00.068    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:27:00.128    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:00.198    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:00.259    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:00.332    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:27:00.398    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:27:00.468    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:27:00.529    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:00.599    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:27:00.599    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 14.904545454545454 fps after 220 frames.
+07-13 08:27:00.698    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 10.0 fps.
+07-13 08:27:00.738    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 26.0 fps.
+07-13 08:27:00.808    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:27:00.868    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:27:00.930    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:01.000    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:27:01.068    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:01.129    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:01.200    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:27:01.288    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 12.0 fps.
+07-13 08:27:01.288    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 14.91304347826087 fps after 230 frames.
+07-13 08:27:01.338    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 19.0 fps.
+07-13 08:27:01.401    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:27:01.468    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:27:01.538    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:27:01.608    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:27:01.678    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:27:01.738    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:01.808    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:27:01.878    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:27:01.938    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:01.938    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 14.9125 fps after 240 frames.
+07-13 08:27:02.008    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:27:02.069    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:02.138    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:27:02.218    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:27:02.268    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 18.0 fps.
+07-13 08:27:02.338    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:27:02.400    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:02.468    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:27:02.538    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:02.598    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:02.598    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 14.908 fps after 250 frames.
+07-13 08:27:02.658    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:02.728    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:02.778    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:02.838    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:27:02.898    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:02.958    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:27:03.048    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 11.0 fps.
+07-13 08:27:03.078    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 27.0 fps.
+07-13 08:27:03.138    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:27:03.199    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:03.199    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 14.98076923076923 fps after 260 frames.
+07-13 08:27:03.259    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:03.328    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:27:03.379    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 18.0 fps.
+07-13 08:27:03.439    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:03.500    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:03.560    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:27:03.628    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:03.688    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:03.738    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 18.0 fps.
+07-13 08:27:03.800    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:03.808    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 15.025925925925925 fps after 270 frames.
+07-13 08:27:03.858    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:27:03.921    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:27:03.981    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:04.041    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:04.101    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:04.168    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:04.228    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:04.278    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 18.0 fps.
+07-13 08:27:04.338    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:04.399    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:04.399    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 15.071428571428571 fps after 280 frames.
+07-13 08:27:04.478    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:27:04.519    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 20.0 fps.
+07-13 08:27:04.588    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 14.0 fps.
+07-13 08:27:04.639    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 20.0 fps.
+07-13 08:27:04.700    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:04.778    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 12.0 fps.
+07-13 08:27:04.828    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 23.0 fps.
+07-13 08:27:04.878    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:27:04.940    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:05.008    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:05.008    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 15.127586206896552 fps after 290 frames.
+07-13 08:27:05.068    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:05.128    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:05.188    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:05.248    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:05.308    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:05.368    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:05.428    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:27:05.488    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:05.548    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:05.608    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:05.608    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 15.153333333333334 fps after 300 frames.
+07-13 08:27:05.668    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:05.728    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:05.788    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 18.0 fps.
+07-13 08:27:05.848    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:05.908    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:05.968    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:27:06.028    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:06.088    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:06.148    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:06.208    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:06.218    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 15.180645161290322 fps after 310 frames.
+07-13 08:27:06.278    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:06.328    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 20.0 fps.
+07-13 08:27:06.388    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:06.448    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:06.508    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:06.569    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:27:06.628    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:06.688    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:06.748    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:27:06.809    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:06.809    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 15.221875 fps after 320 frames.
+07-13 08:27:06.869    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:27:06.929    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:06.989    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:07.068    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:27:07.108    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 22.0 fps.
+07-13 08:27:07.168    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:07.230    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:07.318    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 11.0 fps.
+07-13 08:27:08.058    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 1.0 fps.
+07-13 08:27:08.068    8200-8200/coloredgray D/OpenGLRenderer﹕ Flushing caches (mode 0)
+07-13 08:27:08.068    8200-8200/coloredgray W/IInputConnectionWrapper﹕ showStatusIcon on inactive InputConnection
+07-13 08:27:08.078    8200-8200/coloredgray D/OpenGLRenderer﹕ Flushing caches (mode 1)
+07-13 08:27:08.118    8200-8200/coloredgray D/OpenGLRenderer﹕ Flushing caches (mode 0)
+07-13 08:27:08.268    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 4.0 fps.
+07-13 08:27:08.268    8200-8200/coloredgray D/onPreviewFrame:﹕ AVERAGE: 15.16060606060606 fps after 330 frames.
+07-13 08:27:08.318    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 22.0 fps.
+07-13 08:27:08.438    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 8.0 fps.
+07-13 08:27:08.498    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 17.0 fps.
+07-13 08:27:08.548    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 18.0 fps.
+07-13 08:27:08.618    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:08.728    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 8.0 fps.
+07-13 08:27:08.788    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 16.0 fps.
+07-13 08:27:08.858    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 15.0 fps.
+07-13 08:27:08.938    8200-8200/coloredgray D/onPreviewFrame:﹕ Measured: 13.0 fps.
+07-13 08:27:09.268    8200-8200/coloredgray W/SurfaceTexture﹕ freeAllBuffersExceptCurrentLocked called but mQueue is not empty
+07-13 08:27:09.278    8200-8200/coloredgray E/libEGL﹕ call to OpenGL ES API with no current context (logged once per thread)
+
